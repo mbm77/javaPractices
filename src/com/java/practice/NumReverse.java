@@ -16,6 +16,7 @@ public class NumReverse {
 			num = num/10;
 		}
 		System.out.println(rev);
+		scanner.close();
 
 	}
 

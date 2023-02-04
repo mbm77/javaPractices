@@ -23,6 +23,7 @@ public class PalindromeString {
 		}else {
 			System.out.println("Given string is not palindrome");
 		}
+		scanner.close();
 	}
 
 }
