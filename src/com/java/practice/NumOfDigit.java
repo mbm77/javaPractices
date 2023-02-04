@@ -14,6 +14,7 @@ public class NumOfDigit {
 			count++;
 		}
 		System.out.println(count);
+		scanner.close();
 
 	}
 

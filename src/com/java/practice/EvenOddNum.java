@@ -22,6 +22,7 @@ public class EvenOddNum {
 		}
 		
 		System.out.println("Even: "+evenCount+ " Odd :"+oddCount);
+		scanner.close();
 	}
 
 }
